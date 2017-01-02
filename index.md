@@ -1,3 +1,7 @@
+---
+layout: default
+title: brief historical sketch. Of the Bheel tribes, inhabiting the province of Khandesh
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
